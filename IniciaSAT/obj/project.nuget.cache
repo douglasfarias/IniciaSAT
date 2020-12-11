@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/M3rJYvzPvsekcsc1qBTLZzU6P3sc41pox05ziplZ38E6X95HoKYRWL+lxL75J0jyRDN5BSmAKsg0Qs8wlxTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suporte\\source\\repos\\IniciaSAT\\IniciaSAT\\IniciaSAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suporte\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.10\\microsoft.netcore.app.runtime.win-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\suporte\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.10\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\suporte\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.10\\microsoft.aspnetcore.app.runtime.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

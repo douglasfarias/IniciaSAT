@@ -1,0 +1,13 @@
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Debug\netcoreapp3.1\IniciaSAT.exe
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Debug\netcoreapp3.1\IniciaSAT.deps.json
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Debug\netcoreapp3.1\IniciaSAT.runtimeconfig.json
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Debug\netcoreapp3.1\IniciaSAT.runtimeconfig.dev.json
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Debug\netcoreapp3.1\IniciaSAT.dll
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Debug\netcoreapp3.1\IniciaSAT.pdb
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.csprojAssemblyReference.cache
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.AssemblyInfoInputs.cache
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.AssemblyInfo.cs
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.csproj.CoreCompileInputs.cache
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.dll
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.pdb
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\obj\Debug\netcoreapp3.1\IniciaSAT.genruntimeconfig.cache

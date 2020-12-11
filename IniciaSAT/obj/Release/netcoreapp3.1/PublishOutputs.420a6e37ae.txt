@@ -1,0 +1,5 @@
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Release\netcoreapp3.1\publish\IniciaSAT.exe
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Release\netcoreapp3.1\publish\IniciaSAT.dll
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Release\netcoreapp3.1\publish\IniciaSAT.deps.json
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Release\netcoreapp3.1\publish\IniciaSAT.runtimeconfig.json
+C:\Users\suporte\source\repos\IniciaSAT\IniciaSAT\bin\Release\netcoreapp3.1\publish\IniciaSAT.pdb
